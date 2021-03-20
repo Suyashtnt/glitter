@@ -20,7 +20,7 @@ Git tooling of the future.
 - Fast
 - Easy to use
 - Friendly errors
-- Multi branch support
+- Multi-branch support
 
 ## ❯ 📚 Documentation
 
